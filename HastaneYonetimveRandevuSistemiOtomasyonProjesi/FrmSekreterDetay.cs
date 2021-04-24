@@ -72,7 +72,7 @@ namespace HastaneYonetimveRandevuSistemiOtomasyonProjesi
 
         private void cmbBrans_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //Doktoru ComboBox a getirme
+            //Doktoru ComboBox'a getirme
 
             cmbDoktor.Items.Clear();
 
